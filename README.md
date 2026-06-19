@@ -58,6 +58,7 @@ Experience relevance
 Education relevance
 
 Outputs:
+<img width="380" height="343" alt="image" src="https://github.com/user-attachments/assets/daa7d3b1-2d55-40a2-9cd2-8045a2675e6b" />
 
 ATS Score (0–100)
 Strengths
